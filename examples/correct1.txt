@@ -1,0 +1,5 @@
+let valores = [5, 10, 15];
+for (i = 3 i; i = i - 1) {
+    console.log(i);
+}
+console.log(i);

@@ -1,0 +1,16 @@
+{
+  "name": "analizador-minijs",
+  "version": "1.0.0",
+  "description": "Analizador léxico y sintáctico para un subconjunto de JavaScript (Tema 39568_15)",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js input.txt",
+    "example1": "node src/main.js examples/correct1.txt",
+    "example2": "node src/main.js examples/correct2.txt",
+    "example3": "node src/main.js examples/error1.txt",
+    "example4": "node src/main.js examples/error2.txt"
+  },
+  "keywords": ["antlr4", "parser", "lexer", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
